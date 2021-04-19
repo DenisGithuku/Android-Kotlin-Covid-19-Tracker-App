@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/statisticsFragment"
+        android:icon="@drawable/ic_stats"
+        android:title="@string/title_stats" />
+
+    <item
+        android:id="@+id/countriesFragment"
+        android:icon="@drawable/ic_list"
+        android:title="@string/title_countries" />
+
+    <item
+        android:id="@+id/continentsFragment"
+        android:icon="@drawable/ic_world"
+        android:title="@string/title_continents" />
+
+</menu>
